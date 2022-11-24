@@ -1,1 +1,3 @@
-# leetcode
+# Leetcode
+
+Solving leetcode for fun
